@@ -47,4 +47,4 @@ To deploy this project run
 
 ## Feedback
 
-If you have any feedback, please reach out to us at gowthamm.5127@gmail.com
+If you have any feedback, please reach out to us at gowtham_dev@outlook.com
